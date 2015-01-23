@@ -26,3 +26,8 @@
 *.exe
 *.out
 *.app
+
+
+# My configurations:
+db.ini
+bootstrap
